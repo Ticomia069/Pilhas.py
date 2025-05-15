@@ -1,10 +1,6 @@
 # Pilha.PY 
 Revertendo a Lista
 
-
-
-
-# Exemplo de Uso:
 def inverter_pilha(pilha_original):
   """Inverte a ordem dos elementos de uma pilha.
 
